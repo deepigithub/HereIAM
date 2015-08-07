@@ -20,6 +20,7 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    //in master
 }
 
 @end
